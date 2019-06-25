@@ -1,5 +1,9 @@
+## Implemented features
+- rendering game screen with animations
+- collision detection
+- character moving
+
 ![game screenshot](https://raw.githubusercontent.com/samovolkinmaxim/canvas-works/master/screenshot.png)
-Only rendering game screen and character moving is implemented
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
